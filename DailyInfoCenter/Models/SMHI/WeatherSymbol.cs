@@ -37,6 +37,7 @@ namespace DailyInfoCenter.Models.SMHI
         LightSleet,
         ModerateSleet,
         HeavySleet,
+        [Display(Name = "lätta snöbyar")]
         LightSnowfall,
         ModerateSnowfall,
         HeavySnowfall
